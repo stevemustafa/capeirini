@@ -1,0 +1,7 @@
+[Virtualization_containers]
+name=Virtualization:containers (SLE_12_SP3)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/Virtualization:/containers/SLE_12_SP3/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/Virtualization:/containers/SLE_12_SP3/repodata/repomd.xml.key
+enabled=1
